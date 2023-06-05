@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aidanbxtha7
 - 👀 I’m interested in furthering my knowledge in software development
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA, C#, HTML and CSS
 - 📫 How to reach me https://www.instagram.com/aidanbxtha/
 
 <!---
