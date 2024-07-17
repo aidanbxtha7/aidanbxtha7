@@ -7,7 +7,7 @@
 
 - 🔭 I’m studying at **North-West University**
 
-- 🌱 I’m currently learning **Java, Angular, Html and JS**
+- 🌱 I’m currently learning **Java, Angular, React, Html and JS**
 
 - 🤝 I’m looking for help with **furthering my front-end knowledge**
 
