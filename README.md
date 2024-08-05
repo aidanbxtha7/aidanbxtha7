@@ -7,9 +7,9 @@
 
 - 🔭 I’m studying at **North-West University**
 
-- 🌱 I’m currently learning **Java, Angular, React, Html and JS**
+- 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with **furthering my front-end knowledge**
+- 🤝 I’m looking for help with **furthering my back-end knowledge**
 
 - 📫 How to reach me **aidanbotha30@gmail.com**
 
